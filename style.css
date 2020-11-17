@@ -306,6 +306,11 @@ main .grande-icone
     margin-top:10px;
 }
 
+#copyright_symbol{
+    font-size: 1.5em;
+    color:red;
+}
+
 /*Responsive*/
 
 /*responsive tablettes*/
